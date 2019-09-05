@@ -7,6 +7,5 @@ Here, we have used Maximum Influence Arborance (MIA) diffusion model.
 
 Please cite the following paper:
 
-Suman Banerjee, Bithika Pal, and Mamata Jenamani. Budgeted Influ-
-ence Maximization with Tags in Social Networks. 
+Suman Banerjee, Bithika Pal, and Mamata Jenamani. Budgeted Influence Maximization with Tags in Social Networks. 
 ACM Joint International Conference, 9 pages. https://doi.org/xxxx
